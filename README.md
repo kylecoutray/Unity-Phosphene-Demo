@@ -1,3 +1,8 @@
+[![Demo Video](https://img.youtube.com/vi/KBYbCnQxA78/0.jpg)](https://youtu.be/KBYbCnQxA78)
+
+**[Watch the demo on YouTube](https://youtu.be/KBYbCnQxA78)**
+
+
 # Visual Prosthesis Prototype
 
 This project implements a real-time prototype of a visual neuroprosthesis using a Python preprocessing pipeline and a Unity phosphene renderer. Python encodes the world into an electrode grid and simulated percepts, while Unity displays the resulting phosphene field inside a curved virtual visual field.
