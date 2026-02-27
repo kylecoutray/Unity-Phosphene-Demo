@@ -30,7 +30,7 @@ The system has two components:
 
 ## Curved Visual Field in Unity
 
-To approximate prosthetic perception, the phosphene texture is rendered on a sphere placed around the camera:
+To roughly approximate prosthetic perception, the phosphene texture should instead be rendered on a sphere placed around the camera:
 
 1. Create a Sphere in the Unity scene.
 2. Place the Main Camera at (0,0,0) inside the sphere.
